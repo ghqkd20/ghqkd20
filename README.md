@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JeongHunHeo&fontSize=90)
 
+<p align = "center">
+:wave: Hi, I'm JeongHun Heo. I'm interested in Fin-tech developing and Secuity. :moneybag::sunglasses:
 
-<h3 align = "center">:computer:Tech:computer:</h3>
+
+<h3 align = "center">:computer: Tech :computer:</h3>
 
 <p align ="center">Tech that I've used at least one</p>
 
