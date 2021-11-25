@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JeongHunHeo&fontSize=90)
 
 
-<h3 align = "center">Tech</h3>
+<h3 align = "center">:computer:Tech:computer:</h3>
 
 <p align ="center">Tech that I've used at least one</p>
 
@@ -20,7 +20,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <!--
 **ghqkd20/ghqkd20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
