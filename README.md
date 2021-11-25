@@ -1,12 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JeongHunHeo&fontSize=90)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeoJeongHun&&show_icons=true&theme=gruvbox)
-
 
 <h3 align = "center">Tech</h3>
 
 <p align ="center">Tech that I've used at least one</p>
-![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <p align = "center">
   ![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
